@@ -1,0 +1,29 @@
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+    background-color: #954672;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+legend {
+    font-weight: bold;
+}
+
+fieldset {
+    box-shadow: 0 16px 16px rgba(0,0,0,0.15);
+    background-color: #DE5972;
+    padding-left: 50px;
+}
+
+#errormsg {
+    color: #FFD420;
+    margin: 30px;
+
+}
+
+input {
+    font-weight: bold;
+    margin-top: 16px;
+}

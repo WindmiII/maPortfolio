@@ -1,2 +1,0 @@
-# maPortfolio
-# Portfolio –  Witchakorn Sangphomcharee
